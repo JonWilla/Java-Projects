@@ -10,6 +10,7 @@ Java-based desktop and backend projects showcasing OOP, simulations, and APIs.
 ---
 
 ## 🛠️ Coming Soon
+- Advanced AI Triggered Toll Management
 - Java Swing UI Project
 - RESTful API using Spring Boot
 
